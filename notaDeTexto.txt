@@ -3,3 +3,5 @@ Hola esta es mi primera practica en git
 Le agruegué más texto
 
 Agrego texto en la nuevaRama2
+
+Generé cambios en al rama1
